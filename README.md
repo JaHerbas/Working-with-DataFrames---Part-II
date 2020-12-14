@@ -1,6 +1,6 @@
 <font size = '5'><b>Manipulating DataFrames using Pandas</b><font>
 
-![Figure_1](img/Figure_1.png)
+![Figure_1](img/Figure_2.png)
 
 This repository follows a first one that I created on Basic for DataFrame Manipulations using Pandas where I designed a workflow to illustrate some of the function/methods that I use the most through an exercise with stat from some of my favorite basketball players of all time. In this new one I will once again use basketball data but from the 2019-2020 season that just ended a couple of months ago. This time I will focus on the top 25 league scorers. 
 
